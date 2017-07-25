@@ -20,7 +20,8 @@ allprojects {
 	        compile 'com.github.livesun:TagLayout:V1.0'
 	}
 
-```	
+```
+ ### 第三步
 ```
  tagLayout = (TagLayout) findViewById(R.id.tagview);
 
